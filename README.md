@@ -1,8 +1,3 @@
-# 国内外生态环境遥感、全球碳汇、遥感碳评估相关方向的研究小组和学者
-因本人见识有限，本研究整理难免有缺漏，如有补充意见可联系我。
-
-If you have some suggestions, please contact me. Thanks for your valuable contribution.
-
 #### （排名不分先后）
 ## 一、中国
 
@@ -44,7 +39,21 @@ https://urban.pkusz.edu.cn/info/1013/2100.htm
 #### （3）Google Scholar
 https://scholar.google.com/citations?hl=zh-CN&user=xSmH84MAAAAJ
 
-### 4. 福建师范大学、多伦多大学 陈镜明
+### 4. 香港大学 梁顺林
+
+#### （1）简介
+>研究方向：Remote sensing physical modeling and inversion
+>Global satellite product generation
+>Earth’s Energy Budget
+>Global and regional environmental changes
+
+#### （2）国内主页
+https://www.geog.hku.hk/sl-liang / https://geog1.hku.hk/sliang/
+
+#### （3）Google Scholar
+https://scholar.google.com/citations?hl=zh-CN&user=q9X8uQ4AAAAJ
+
+### 5. 福建师范大学、多伦多大学 陈镜明
 
 #### （1）简介
 > 研究方向：主要从事植被遥感及陆地生态系统碳水循环等研究
@@ -56,7 +65,21 @@ https://geo.fjnu.edu.cn/a1/01/c4964a237825/page.htm
 #### （3）Google Scholar
 无
 
-### 5. 武汉大学 龚威团队
+### 6. 福建师范大学 陆灯盛
+
+#### （1）简介
+
+> 研究方向：遥感技术与应用，林业遥感（森林分类，干扰监测，生物量/碳储量估测建模等），城市遥感。
+
+#### （2）国内主页
+
+https://geo.fjnu.edu.cn/cb/8a/c5054a183178/page.htm
+
+#### （3）Google Scholar
+
+https://scholar.google.com/citations?user=LKXJMN0AAAAJ&hl=zh-CN&oi=ao
+
+### 7. 武汉大学 龚威团队
 
 #### （1）简介
 >龚威，教授，国家级高层次人才，武汉大学碳中和研究中心主任，研究方向包括大气及植被定量遥感、高光谱激光雷达、二氧化碳探测激光雷达、遥感碳监测等
@@ -69,7 +92,7 @@ http://www.lmars.whu.edu.cn/prof_web/gongwei/index.html
 #### （3）Google Scholar
 无
 
-### 6. 武汉大学 田丰
+### 8. 武汉大学 田丰
 
 #### （1）简介
 >研究兴趣包括植被生态遥感、生态系统气候变化响应、碳水循环监测和模拟、涡度相关系统 eddy covariance flux、非洲生态环境、山地植被遥感、生物多样性、遥感数据质量评价等，多项成果发表在Nature子刊、RSE、GCB等顶刊。
@@ -80,7 +103,7 @@ http://jszy.whu.edu.cn/tian_feng/zh_CN
 #### （3）Google Scholar
 https://scholar.google.dk/citations?user=09yZAiwAAAAJ&hl=en
 
-### 7. 武汉大学 黄文丽
+### 9. 武汉大学 黄文丽
 
 #### （1）简介
 >资环学院，副研究员
@@ -91,6 +114,62 @@ https://faculty.whu.edu.cn/show.jsp?n=Wenli%20Huang&lang=cn
 
 #### （3）Google Scholar
 https://scholar.google.com/citations?hl=zh-CN&user=tWisdEwAAAAJ
+
+### 10. 武汉大学 管小彬
+
+#### （1）简介
+
+>主要研究方向为植被遥感应用，基于机器学习、数学建模、生态模型等手段，针对遥感基础植被指数处理、陆地生态系统碳循环关键参量模拟、生态系统对全球变化响应等关键问题开展工作。
+
+#### （2）国内主页
+
+http://jszy.whu.edu.cn/guanxiaobin/zh_CN/index.htm
+
+#### （3）Google Scholar
+
+无
+
+### 11. 南京大学 张永光
+
+#### （1）简介
+
+>国家杰出青年基金获得者，获得首届“李小文遥感科学奖”和2019年自然资源学会青年科技奖。主要从事植被叶绿素荧光遥感 和陆地碳循环研究，建立了基于植被荧光遥感的生态系统GPP和最大羧化率遥感反演新方法。论文发表在Science，Nature, Nature Ecology&Evolution, PNAS, Global Change Biology, Remote Sensing of Environment等期刊上。
+
+#### （2）国内主页
+
+https://sgos.nju.edu.cn/zyg/list.htm
+
+#### （3）Google Scholar
+
+https://scholar.google.com/citations?hl=zh-CN&user=IWPUkLsAAAAJ
+
+### 12. 南京大学 居为民
+
+#### （1）简介
+
+> 研究方向：生态环境遥感、遥感模型数据同化、生态系统碳水耦合循环模拟、气候变化影响评估
+
+#### （2）国内主页
+
+https://sgos.nju.edu.cn/jwm/list.htm
+
+#### （3）Google Scholar
+
+https://scholar.google.com/citations?user=FPQALyEAAAAJ&hl=zh-CN&oi=ao
+
+### 13. 中山大学 袁文平
+
+#### （1）简介
+
+> 主要从事陆地生态系统模型研究，目前主要集中于CO2、CH4、N2O等模型发展和改进，区域和国家尺度碳源汇评估，并利用遥感数据估算植被生产力和粮食产量。
+
+#### （2）国内主页
+
+https://atmos.sysu.edu.cn/teacher/358
+
+#### （3）Google Scholar
+
+无
 
 ## 二、美国
 
@@ -136,6 +215,25 @@ https://scholar.google.com/citations?user=E8dU9A4AAAAJ&hl=zh-CN&oi=ao
 #### （2）Google Scholar
 https://scholar.google.com/citations?user=7KoirlwAAAAJ&hl=en
 
+### 6. 夏威夷大学 Chen Qi
+
+#### （1）简介
+>Interests in studying various issues of environmental changes (e.g., climate change, land use and land cover change, sea-level rise, habitat and biodiversity loss) and often use a combination of multiple tools (e.g., remote sensing, GIS, statistics, process-based models, and field observations) to address these issues.
+
+#### （2）Google Scholar
+https://scholar.google.com/citations?hl=zh-CN&user=ucpSWm0AAAAJ
+
+### 7. 明尼苏达大学 Ronald E. McRoberts
+
+#### （1）简介
+>Model-based estimation of forest attributes using forest inventory and remotely sensed auxiliary data
+>k-Nearest Neighbors technique
+>Estimating biodiversity using forest inventory and remotely sensed auxiliary data
+>Carbon accounting
+
+#### （2）Google Scholar
+无
+
 ## 三、英国
 
 ### 1. 英国埃克塞特大学 Stephen Sitch
@@ -154,6 +252,14 @@ https://scholar.google.com/citations?hl=zh-CN&user=umMYKBIAAAAJ
 
 #### （2）Google Scholar
 https://scholar.google.com/citations?user=yadhQMwAAAAJ&hl=zh-CN&oi=ao
+
+### 3. 英国谢菲尔德大学 Holly Croft
+
+#### （1）简介
+>Ecological remote sensing scientist with interests in agricultural, forested and Arctic terrestrial ecosystems. Research is focused on the use of remotely sensed data in the measurement and modelling of biophysical and ecological variables that influence vegetation productivity, carbon exchange and nutrient use, along with the effects of disturbance on ecosystem structure and function.
+
+#### （2）Google Scholar
+https://scholar.google.com/citations?user=4DQIU04AAAAJ&hl=zh-CN&oi=ao
 
 ## 四、欧洲
 ### 1. 法国LSCE实验室 Philippe Ciais外籍院士
@@ -189,7 +295,7 @@ https://scholar.google.com/citations?user=4QU11c4AAAAJ&hl=zh-CN&oi=sra
 #### （2）Google Scholar
 https://scholar.google.co.uk/citations?hl=en&user=2cfq6tcAAAAJ
 
-## 五、其他国家
+## 五、其他
 ### 1. 澳大利亚CSIRO Josep (Pep) Canadell
 
 #### （1）简介
@@ -197,3 +303,11 @@ https://scholar.google.co.uk/citations?hl=en&user=2cfq6tcAAAAJ
 
 #### （2）Google Scholar
 https://scholar.google.com/citations?user=4QU11c4AAAAJ&hl=zh-CN&oi=sra
+
+### 2. 加拿大多伦多大学 Jane Liu
+
+#### （1）简介
+>She is interested in investigating environmental issues relevant to our atmosphere, biosphere, and/or interactions between them using advanced approaches in remote sensing, model simulations, field experiments, and data analysis.
+
+#### （2）Google Scholar
+https://scholar.google.com/citations?user=Nglq21UAAAAJ&hl=zh-CN&oi=ao
