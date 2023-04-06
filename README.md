@@ -1,4 +1,4 @@
-# 国内外生态植被遥感、碳汇、遥感碳评估著名的研究小组和学者
+# 国内外生态环境遥感、全球碳汇、遥感碳评估相关方向的研究小组和学者
 因本人见识有限，本研究整理难免有缺漏，如有补充意见可联系我。
 
 If you have some suggestions, please contact me. Thanks for your valuable contribution.
