@@ -44,10 +44,10 @@ https://scholar.google.com/citations?hl=zh-CN&user=xSmH84MAAAAJ
 ### 4. 香港大学 梁顺林
 
 #### （1）简介
->研究方向：Remote sensing physical modeling and inversion
->Global satellite product generation
->Earth’s Energy Budget
->Global and regional environmental changes
+>研究方向：Remote sensing physical modeling and inversion  
+>Global satellite product generation  
+>Earth’s Energy Budget  
+>Global and regional environmental changes  
 
 #### （2）国内主页
 https://www.geog.hku.hk/sl-liang / https://geog1.hku.hk/sliang/
